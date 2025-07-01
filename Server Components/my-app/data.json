@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 29,
+    "isActive": true,
+    "signupDate": "2023-11-15"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "age": 34,
+    "isActive": false,
+    "signupDate": "2022-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Nguyen",
+    "email": "charlie.nguyen@example.com",
+    "age": 25,
+    "isActive": true,
+    "signupDate": "2024-03-01"
+  },
+  {
+    "id": 4,
+    "name": "Dana Lee",
+    "email": "dana.lee@example.com",
+    "age": 42,
+    "isActive": true,
+    "signupDate": "2021-12-10"
+  },
+  {
+    "id": 5,
+    "name": "Eli Brown",
+    "email": "eli.brown@example.com",
+    "age": 31,
+    "isActive": false,
+    "signupDate": "2023-01-05"
+  },
+  {
+    "id": 6,
+    "name": "Fiona Garcia",
+    "email": "fiona.garcia@example.com",
+    "age": 28,
+    "isActive": true,
+    "signupDate": "2023-06-12"
+  },
+  {
+    "id": 7,
+    "name": "George Kim",
+    "email": "george.kim@example.com",
+    "age": 36,
+    "isActive": false,
+    "signupDate": "2022-10-03"
+  },
+  {
+    "id": 8,
+    "name": "Hannah Adams",
+    "email": "hannah.adams@example.com",
+    "age": 24,
+    "isActive": true,
+    "signupDate": "2024-05-18"
+  },
+  {
+    "id": 9,
+    "name": "Ian Carter",
+    "email": "ian.carter@example.com",
+    "age": 39,
+    "isActive": true,
+    "signupDate": "2023-08-09"
+  },
+  {
+    "id": 10,
+    "name": "Jasmine Turner",
+    "email": "jasmine.turner@example.com",
+    "age": 33,
+    "isActive": false,
+    "signupDate": "2021-11-25"
+  },
+  {
+    "id": 11,
+    "name": "Kyle Murphy",
+    "email": "kyle.murphy@example.com",
+    "age": 27,
+    "isActive": true,
+    "signupDate": "2024-01-19"
+  },
+  {
+    "id": 12,
+    "name": "Lily Ross",
+    "email": "lily.ross@example.com",
+    "age": 30,
+    "isActive": true,
+    "signupDate": "2023-04-27"
+  },
+  {
+    "id": 13,
+    "name": "Mason Phillips",
+    "email": "mason.phillips@example.com",
+    "age": 41,
+    "isActive": false,
+    "signupDate": "2022-02-14"
+  },
+  {
+    "id": 14,
+    "name": "Nina Collins",
+    "email": "nina.collins@example.com",
+    "age": 26,
+    "isActive": true,
+    "signupDate": "2024-06-30"
+  },
+  {
+    "id": 15,
+    "name": "Oscar Rivera",
+    "email": "oscar.rivera@example.com",
+    "age": 38,
+    "isActive": false,
+    "signupDate": "2021-09-08"
+  },
+  {
+    "id": 16,
+    "name": "Paula Martinez",
+    "email": "paula.martinez@example.com",
+    "age": 35,
+    "isActive": true,
+    "signupDate": "2023-10-14"
+  },
+  {
+    "id": 17,
+    "name": "Quinn Howard",
+    "email": "quinn.howard@example.com",
+    "age": 32,
+    "isActive": true,
+    "signupDate": "2022-06-06"
+  },
+  {
+    "id": 18,
+    "name": "Rachel Diaz",
+    "email": "rachel.diaz@example.com",
+    "age": 40,
+    "isActive": false,
+    "signupDate": "2024-02-23"
+  },
+  {
+    "id": 19,
+    "name": "Sam Walker",
+    "email": "sam.walker@example.com",
+    "age": 37,
+    "isActive": true,
+    "signupDate": "2023-12-01"
+  },
+  {
+    "id": 20,
+    "name": "Tina Brooks",
+    "email": "tina.brooks@example.com",
+    "age": 23,
+    "isActive": true,
+    "signupDate": "2024-07-01"
+  }
+]
